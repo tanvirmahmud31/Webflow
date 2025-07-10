@@ -299,3 +299,29 @@ margin-top: 71px;
 .contact-form button:hover {
   background-color:rgb(240, 196, 18);
 }
+.ft-title{
+    align-items: center;
+    text-align: center;
+    margin: 14px auto;
+    height: 428px;
+    background-color: rgba(255, 255, 255, 1);
+}
+.ft-title h1{
+    color: #4E47FF;
+    font-size: 100px;
+}
+.ft-title p{
+    color: #8987A1;
+    margin-top: 8px;
+}
+.links{
+    color: #8987A1;
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+    gap: 20px;
+    
+}
+.links a{
+text-decoration: none;
+}
